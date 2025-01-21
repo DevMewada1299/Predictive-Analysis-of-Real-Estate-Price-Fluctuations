@@ -1,2 +1,4 @@
 data/raw[[:space:]]data/ZHVInew.txt filter=lfs diff=lfs merge=lfs -text
 IPythonNotebooks/data_ipynb/Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month-2.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
